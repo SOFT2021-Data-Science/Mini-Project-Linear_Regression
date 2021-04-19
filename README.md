@@ -1,4 +1,6 @@
 # Mini-Project-Linear_Regression
+- Jonas Hein - https://github.com/Zenzus
+- Thomas Ebsen - https://github.com/Srax 
 - [Run notebook](https://mybinder.org/v2/gh/SOFT2021-Data-Science/Mini-Project-Linear_Regression/HEAD)
  
 ## Task 2 - Answer the questions
