@@ -1,4 +1,5 @@
 # Mini-Project-Linear_Regression
+- [Run notebook](https://mybinder.org/v2/gh/SOFT2021-Data-Science/Mini-Project-Linear_Regression/HEAD)
  
 ## Task 2 - Answer the questions
 ### Different types of regression
